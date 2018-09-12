@@ -1,0 +1,13 @@
+{
+  "name": "terrain",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "parcel ./src/index.html --open"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.9.7",
+    "typescript": "^3.0.3"
+  }
+}
